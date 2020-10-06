@@ -12,7 +12,7 @@ a { text-decoration: none; }
 .header {
   padding: 80px; /* some padding */
   text-align: center; /* center the text */
-  background-image: url("background.jpg");
+  background-image: url("background.png");
   color: white; /* white text color */
 }
 
