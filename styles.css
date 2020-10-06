@@ -9,7 +9,18 @@
 
 a { text-decoration: none; }
 
-h2 { font-family: Calibri; }
+.header {
+  padding: 80px; /* some padding */
+  text-align: center; /* center the text */
+  background: #1abc9c; /* green background */
+  color: white; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h2 {
+  font-size: 40px;
+  font-family: Calibri;
+}
 
 /* Green */
 .resume {
@@ -32,11 +43,11 @@ h2 { font-family: Calibri; }
 }
 
 /* Orange */
-.warning {
+.gallery {
   color: orange;
 }
 
-.warning:hover {
+.gallery:hover {
   background: #ff9800;
   color: white;
 }
