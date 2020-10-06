@@ -79,7 +79,7 @@ a { text-decoration: none; }
 }
 
 .flip-card {
-  background-color: #1abc9c;
+  background-color: transparent;
   width: 300px;
   height: 200px;
   border: 1px solid #f1f1f1;
@@ -113,7 +113,7 @@ a { text-decoration: none; }
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #bbb;
+  background-color: #1abc9c;
   color: black;
 }
 
