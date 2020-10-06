@@ -22,6 +22,11 @@ a { text-decoration: none; }
   font-family: Calibri;
 }
 
+.header p {
+	font-size: 20px;
+	font-family: Calibri;
+}
+
 /* Green */
 .resume {
   color: green;
