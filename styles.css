@@ -19,7 +19,8 @@ a { text-decoration: none; }
   position: relative;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: auto;
+  background-position: center top;
 }
 
 .header h2 {
