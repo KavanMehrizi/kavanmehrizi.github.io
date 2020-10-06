@@ -17,6 +17,17 @@ a { text-decoration: none; }
     margin-left: auto;
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: auto;
+    margin-left: -15px;
+}
+
+.element {
+	padding: 10px;
+}
+
 
 .header {
   padding: 80px;
