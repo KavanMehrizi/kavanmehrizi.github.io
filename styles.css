@@ -13,10 +13,21 @@ a { text-decoration: none; }
   padding: 80px; /* some padding */
   text-align: center; /* center the text */
   background-image: url("background.png");
-  color: white; /* white text color */
+  color: black; /* white text color */
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
-/* Increase the font size of the <h1> element */
 .header h2 {
   font-size: 40px;
   font-family: Calibri;
