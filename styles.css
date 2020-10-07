@@ -1,4 +1,4 @@
-.btn {
+.card {
   border: none;
   background-color: inherit;
   padding: 14px 28px;
@@ -45,6 +45,7 @@ a { text-decoration: none; }
 /* Green */
 .resume {
   color: white;
+  font-weight: bold;
 }
 
 .resume:hover {
@@ -54,7 +55,8 @@ a { text-decoration: none; }
 
 /* Blue */
 .info {
-  color: dodgerblue;
+  color: white;
+  font-weight: bold;
 }
 
 .info:hover {
@@ -64,7 +66,8 @@ a { text-decoration: none; }
 
 /* Orange */
 .gallery {
-  color: orange;
+  color: white;
+  font-weight: bold;
 }
 
 .gallery:hover {
@@ -74,7 +77,8 @@ a { text-decoration: none; }
 
 /* Red */
 .danger {
-  color: red;
+  color: white;
+  font-weight: bold;
 }
 
 .danger:hover {
@@ -84,7 +88,8 @@ a { text-decoration: none; }
 
 /* Gray */
 .default {
-  color: black;
+  color: white;
+  font-weight: bold;
 }
 
 .default:hover {
@@ -95,7 +100,8 @@ a { text-decoration: none; }
   background-color: transparent;
   width: 300px;
   height: 200px;
-  border: 1px solid #f1f1f1;
+  border: 2px dashed red;
+  border-radius: 5px;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
   position: relative;
 }
