@@ -144,7 +144,12 @@ a { text-decoration: none; }
     float: right;
 }
 
-ul.menu {
+li {
+  float: left;
+  font-family: Calibri;
+}
+
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -152,6 +157,10 @@ ul.menu {
     background-color: #333;
 }
 
-ul.menu li a.active {
+li a:hover:not(.active) {
+	background-color: black;
+}
+
+.active {
     background-color: #4285F4;
 }
