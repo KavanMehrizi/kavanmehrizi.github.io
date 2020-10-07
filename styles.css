@@ -140,6 +140,15 @@ a { text-decoration: none; }
   transform: rotateY(180deg);
 }
 
+.galImages {
+	width: 100%;
+  height: 100%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
 .rightli {
     float: right;
 }
