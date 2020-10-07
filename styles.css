@@ -9,19 +9,12 @@
 
 a { text-decoration: none; }
 
-
-
 .row {
     display: flex;
     flex-wrap: wrap;
     margin-right: auto;
     margin-left: -15px;
 }
-
-.element {
-	padding: 10px;
-}
-
 
 .header {
   padding: 80px;
@@ -133,7 +126,6 @@ a { text-decoration: none; }
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #1abc9c;
   color: black;
 }
 
