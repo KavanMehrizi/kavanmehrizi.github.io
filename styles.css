@@ -139,3 +139,19 @@ a { text-decoration: none; }
   color: white;
   transform: rotateY(180deg);
 }
+
+.rightli {
+    float: right;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.menu li a.active {
+    background-color: #4285F4;
+}
