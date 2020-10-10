@@ -184,3 +184,28 @@ li a:hover:not(.active) {
     height: 100%;
     border:1px solid black
 }
+.contactcontainer {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.contactcolumn {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+.contactrow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .contactcolumn, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
