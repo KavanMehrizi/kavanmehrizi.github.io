@@ -56,16 +56,18 @@ a { text-decoration: none; }
 .info {
   color: white;
   font-weight: bold;
+  background-color: #FFA500;
 }
 
 .info:hover {
-  background: #2196F3;
+  background-color: #FF4500;
   color: white;
 }
 
 .gallery {
   color: white;
   font-weight: bold;
+  background-color: #00BFBF;
 }
 
 .gallery:hover {
@@ -76,6 +78,7 @@ a { text-decoration: none; }
 .contact {
   color: white;
   font-weight: bold;
+  background-color: #013220;
 }
 
 .contact:hover {
@@ -117,7 +120,6 @@ a { text-decoration: none; }
 }
 
 .flip-card-back {
-  background-color: dodgerblue;
   color: white;
   transform: rotateY(180deg);
 }
