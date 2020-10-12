@@ -221,5 +221,5 @@ li a:hover:not(.active) {
 }
 
 .privatepolicy p {
-	size: 6px;
+	font-size: 6px;
 }
