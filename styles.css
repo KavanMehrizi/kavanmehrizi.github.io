@@ -219,3 +219,7 @@ li a:hover:not(.active) {
   color: black;
   text-align: center;
 }
+
+.privatepolicy p {
+	size: 6px;
+}
