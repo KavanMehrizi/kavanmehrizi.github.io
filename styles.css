@@ -212,7 +212,6 @@ li a:hover:not(.active) {
 
 .footer {
   position: absolute;
-  left: 0;
   bottom: 0;
   width: 100%;
   background-color: #A8A8A8;
