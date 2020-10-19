@@ -225,9 +225,3 @@ li a:hover:not(.active) {
 	bottom: 0;
 	width: 100%;
 }
-
-.warning {
-	color:red;
-	font-weight: bold;
-	text-align:center;
-}
