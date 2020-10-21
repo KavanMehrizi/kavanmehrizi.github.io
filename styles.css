@@ -197,6 +197,10 @@ li a:hover:not(.active) {
   padding: 20px;
 }
 
+.contactcolumn a {
+	color: dodgerblue;
+}
+
 .contactrow:after {
   content: "";
   display: table;
