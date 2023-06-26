@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Undergaduate Researcher</strong> @ Amazon-UCLA • <strong>EECS</strong> @ UC Berkeley • <strong>Previously:</strong> <a href='https://www.cmu.edu/scs/s3d/reuse/' target="_blank">CMU</a> / <a href='https://engineering.berkeley.edu/admissions/undergraduate-admissions/junior-transfers/transfer-to-excellence/' target="_blank">Berkeley Engineering</a>
+subtitle: <strong>Undergraduate Researcher</strong> @ Amazon-UCLA • <strong>EECS</strong> @ UC Berkeley • <strong>Previously:</strong> <a href='https://www.cmu.edu/scs/s3d/reuse/' target="_blank">CMU</a> / <a href='https://e3s-center.berkeley.edu/education-diversity/education/undergraduate/tte-transfer-excellence-summer-research-program/tte-program-archive-b/2021-2/' target="_blank">Berkeley Engineering</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Kavan and I'm an undergraduate Electrical Engineering and Computer Sciences (EECS) major here at the University of California, Berkeley. I'm currently working as an undergraduate researcher at Amazon-UCLA under [Prof. Abeer Alwan](http://www.seas.ucla.edu/spapl/) of the Samueli Electrical and Computer Engineering Department in speech processing. I'm interested in the in the ability to use automation to build an increasingly innovative way of life, especially in the role that artificial intelligence can play.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently open for internships for spring & summer 2024 in an area overall related to the world of software engineering. 
+
+My current interests include human-computer interaction, robotics, data science, and management. When not studying, I love being outside by either photographing, hiking, picnicking, cycling, skiing, or just enjoying nature.
