@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 
 
-I'm Kavan and I'm an undergraduate Electrical Engineering and Computer Sciences (EECS) major here at the University of California, Berkeley. I'm currently working as an undergraduate researcher at Amazon-UCLA under [Prof. Abeer Alwan](http://www.seas.ucla.edu/spapl/) of the Samueli Electrical and Computer Engineering Department in speech processing. I'm interested in the in the ability to use automation to build an increasingly innovative way of life, especially in the role that artificial intelligence can play.
+I'm Kavan and I'm an undergraduate Electrical Engineering and Computer Sciences (EECS) major here at the University of California, Berkeley. I'm currently working as an undergraduate AI/ML researcher at Amazon-UCLA under [Prof. Abeer Alwan](http://www.seas.ucla.edu/spapl/) of the Samueli Electrical and Computer Engineering Department in speech processing. My current interests lie in the ability to use automation to build an increasingly innovative way of life, especially in the role that artificial intelligence can play.
 
 I'm currently open for internships for spring & summer 2024 in an area overall related to the world of software engineering. 
 

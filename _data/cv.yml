@@ -5,84 +5,124 @@
       value: Kavan Mehrizi
     - name: Languages
       value: English, Farsi, Spanish
+    - name: Computational Skills
+      value: Python, Java, C++, SQL, NumPy, Pandas, Arduino, Git, C, HTML/CSS
 
 - title: Education
   type: time_table
   contents:
     - title: Electrical Engineering and Computer Sciences B.S.
       institution: University of California, Berkeley, California
-      year: 2022 - Present
+      year: Aug 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Activities and Societies.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Vice President & Co-Founder of Berkeley's only EE/CS transfer-focused student organization, <a href="https://ocf.io/eecstransfers">EECS Transfers at Berkeley</a>
+            - Member of UC Berkeley IEEE Branch 
+            - Member of FinEd Association 
+            - Member of Puente at Berkeley 
+            - Member of ISCO
+        - title: Relevant Coursework.
+          contents:
+            - Structure and Interpretation of Computer Programs.
+            - Designing Information Devices and Systems I.
+            - Designing Information Devices and Systems II.
+            - Foundations of Data Science.
+            - Data Structures.
+            - Ethics, Engineering, and Society.
+            - Introduction to Technology Entrepreneurship & Innovation.
+            - Discrete Mathematics and Probability Theory (Fall 2023).
+            - Principles and Techniques of Data Science (Fall 2023).
+            - Introduction to Artificial Intelligence (Fall 2023).
     - title: Computer Science A.S., Mathematics A.S.T., Physics A.S.T.
       institution: Diablo Valley College, Pleasant Hill, California
-      year: 2020 - 2022
+      year: Jan 2020 - May 2022
       description:
-        - Description 1.
-        - Description 2.
+        - title: Activities and Societies.
+          contents:
+            - Newsletter Editor, Webmaster, & Permanent Member of Alpha Gamma Sigma Honor Society
+            - Member of DVHackers Club
+            - Member of Google Developer Student Club
+            - Member of Physics Club
+        - title: Relevant Coursework.
+          contents:
+          - Introduction to C++ Programming
+          - Advanced C & C++ Programming
+          - Object Oriented Programming
+          - Program Design and Data Structures
+          - Python Programming
+          - Programming with Java
+          - Assembly Language Programming & Computer Organization
+          - Calculus II
+          - Calculus III
+          - Linear Algebra
+          - Differential Equations
+          - Discrete Mathematics
+          - Physics for Engineers and Scientists A
+          - Physics for Engineers and Scientists B
+          - Physics for Engineers and Scientists C
 
 - title: Experience
   type: time_table
   contents:
-    - title: Undergraduate Researcher
+    - title: Undergraduate AI/ML Researcher
       institution: Amazon-UCLA, Los Angeles, California
-      year: 06/2023 - Present
+      year: June 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Under Prof. Abeer Alwan of the Samueli School of Engineering in speech processing.
     - title: Undergraduate Software Engineering Researcher
       institution: Carnegie Mellon University, Pittsburgh, Pennsylvania 
-      year: 05/2022 - 08/2022
+      year: May 2022 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Advisors. <a href="http://www.cs.cmu.edu/~ckaestne/">Prof. Christian Kästner</a> and <a href="https://bvasiles.github.io/">Prof. Bogdan Vasilescu</a>
+        - Developed Python NumPy/Pandas data-mining scripts to determine maintainers of the top 30,000 most popular GHTorrent GitHub repositories. Deduplicated ~5.6 million rows of contributor commit data by merging commit author aliases together and aggregated maintainers based on the definition of contributors responsible for top 80% of total project commits in a year. Identified ~584,000 distinct contributors, and ~ 110,000 maintainers to be interviewed to understand the motivations behind open-source software maintainers.
     - title: Undergraduate Robotics Researcher
       institution: University of California, Berkeley, California 
-      year: 06/2021 - 08/2021
+      year: June 2021 - Aug 2021
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Independently developed a speech interface for a robotic guide dog to facilitate direct, vocal human-robot interaction utilizing Python with AWS Amazon Polly and Google Cloud Speech-to-Text APIs. Allowed for understanding vocal commands and a customizable wake word to activate the guide dog. Navigated based on user’s request by publishing predetermined coordinates to guide dog’s navigation target node. Allowed for independence of guide dog by eliminating the need for a computer to manually send commands to the guide dog by integrating a speech interface into the existing infrastructure utilizing C++ and ROS.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Graduated with Honors 
+        - Milagros Ojermark Academic Transfer Scholarship
+        - Academic Honors
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - AGS Member of the Month
+        - Academic Honors
+    - year: 2020
+      items:
+        - Academic Honors
+    - year: 2019
+      items:
+        - Google Top Photographer
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - title: 
+    items:
+      - Software Engineering
+      - Data Science
+      - Machine Learning
+      - Artificial Intelligence
+      - Robotics
+      - Computer Vision
+      - Natural Language Processing
+      - Speech Processing
+
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Hobbies.
+      items: 
+        - Avid skier.
+        - devoted film & digital photographer.
+        - soccer.
+        - 3D printing
+        - automation tinkering (microcontrollers, open-source software, IoT)
