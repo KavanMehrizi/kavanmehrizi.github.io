@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Farsi, Spanish
     - name: Computational Skills
-      value: Python, Java, C++, SQL, NumPy, Pandas, Arduino, Git, C, HTML/CSS
+      value: Python, Java, NumPy, Pandas, SQL, Arduino, Git, PyTorch, C++, C, HTML/CSS
 
 - title: Education
   type: time_table
@@ -66,10 +66,11 @@
   type: time_table
   contents:
     - title: Undergraduate AI/ML Researcher
-      institution: Amazon-UCLA, Los Angeles, California
+      institution: Amazon - UCLA, Los Angeles, California
       year: June 2023 - Present
       description:
-        - Under Prof. Abeer Alwan of the Samueli School of Engineering in speech processing.
+        - Advisor. <a href="http://www.seas.ucla.edu/spapl/">Prof. Abeer Alwan</a>
+        - Researching accent and dialect bias with Automatic Speech Recognition (ASR) systems, specifically on OpenAI Whisper and African American language (AAL). Focusing on question-answering (QA) extraction using Hugging Face DeBERTa & Meta LLaMA-2 while fine-tuning Whisper with CORAAL.
     - title: Undergraduate Software Engineering Researcher
       institution: Carnegie Mellon University, Pittsburgh, Pennsylvania 
       year: May 2022 - Aug 2022
@@ -80,6 +81,7 @@
       institution: University of California, Berkeley, California 
       year: June 2021 - Aug 2021
       description:
+        - Advisor. <a href="https://hybrid-robotics.berkeley.edu/koushil/">Prof. Koushil Sreenath</a>
         - Independently developed a speech interface for a robotic guide dog to facilitate direct, vocal human-robot interaction utilizing Python with AWS Amazon Polly and Google Cloud Speech-to-Text APIs. Allowed for understanding vocal commands and a customizable wake word to activate the guide dog. Navigated based on user’s request by publishing predetermined coordinates to guide dog’s navigation target node. Allowed for independence of guide dog by eliminating the need for a computer to manually send commands to the guide dog by integrating a speech interface into the existing infrastructure utilizing C++ and ROS.
 
 - title: Honors and Awards
