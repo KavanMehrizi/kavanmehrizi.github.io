@@ -76,7 +76,7 @@
       year: May 2022 - Aug 2022
       description:
         - Advisors. <a href="http://www.cs.cmu.edu/~ckaestne/">Prof. Christian Kästner</a> and <a href="https://bvasiles.github.io/">Prof. Bogdan Vasilescu</a>
-        - Developed Python NumPy/Pandas data-mining scripts to determine maintainers of the top 30,000 most popular GHTorrent GitHub repositories. Deduplicated ~5.6 million rows of contributor commit data by merging commit author aliases together and aggregated maintainers based on the definition of contributors responsible for top 80% of total project commits in a year. Identified ~584,000 distinct contributors, and ~ 110,000 maintainers to be interviewed to understand the motivations behind open-source software maintainers.
+        - Developed Python NumPy/Pandas data-mining scripts to determine maintainers of the top 30,000 most popular GHTorrent GitHub repositories. Deduplicated ~5.6 million rows of contributor commit data by merging commit author aliases together and aggregated maintainers based on the definition of contributors responsible for top 80% of total project commits in a year. Identified ~584,000 distinct contributors, and ~110,000 maintainers to be interviewed to understand the motivations behind open-source software maintainers.
     - title: Undergraduate Robotics Researcher
       institution: University of California, Berkeley, California 
       year: June 2021 - Aug 2021
