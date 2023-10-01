@@ -5,8 +5,10 @@
       value: Kavan Mehrizi
     - name: Languages
       value: English, Farsi, Spanish
-    - name: Computational Skills
-      value: Python, Java, NumPy, Pandas, SQL, Arduino, Git, PyTorch, C++, C, HTML/CSS
+    - name: Programming/Scripting Languages
+      value: Python, Java, C++, SQL, HTML/CSS, C, R
+    - name: Frameworks and Libraries
+      value: NumPy, Pandas, Matplotlib, PyTorch, Git, MySQL, Arduino, ROS
 
 - title: Education
   type: time_table
@@ -17,23 +19,30 @@
       description:
         - title: Activities and Societies.
           contents:
-            - Vice President & Co-Founder of Berkeley's only EE/CS transfer-focused student organization, <a href="https://ocf.io/eecstransfers">EECS Transfers at Berkeley</a>
+            - Vice President & Co-Founder of Berkeley's only EE/CS transfer-focused student organization, <a href="https://eecstransfers.studentorg.berkeley.edu/">EECS Transfers at Berkeley</a>
             - Member of UC Berkeley IEEE Branch 
-            - Member of FinEd Association 
+            - Member of Hispanic Engineers and Scientists Society (SHPE Chapter) 
             - Member of Puente at Berkeley 
-            - Member of ISCO
+            - Member of FinEd Association 
+            - Member of ISCO 
         - title: Relevant Coursework.
           contents:
-            - Structure and Interpretation of Computer Programs.
-            - Designing Information Devices and Systems I.
-            - Designing Information Devices and Systems II.
-            - Foundations of Data Science.
-            - Data Structures.
-            - Ethics, Engineering, and Society.
-            - Introduction to Technology Entrepreneurship & Innovation.
-            - Discrete Mathematics and Probability Theory (Fall 2023).
-            - Principles and Techniques of Data Science (Fall 2023).
-            - Introduction to Artificial Intelligence (Fall 2023).
+            - Structure and Interpretation of Computer Programs
+            - Designing Information Devices and Systems I
+            - Designing Information Devices and Systems II
+            - Foundations of Data Science
+            - Data Structures
+            - Ethics, Engineering, and Society
+            - Introduction to Technology Entrepreneurship & Innovation
+            - Discrete Mathematics and Probability Theory*
+            - Principles and Techniques of Data Science*
+            - Introduction to Artificial Intelligence*
+            - Introduction to Computer Graphics*
+            - Introduction to Database Systems*
+            - User Interface Design and Development*
+            - Software Engineering*
+
+            - (Course Name)* = In Progress/Planned
     - title: Computer Science A.S., Mathematics A.S.T., Physics A.S.T.
       institution: Diablo Valley College, Pleasant Hill, California
       year: Jan 2020 - May 2022
@@ -65,24 +74,25 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Undergraduate AI/ML Researcher
+    - title: SURE AI/ML Researcher
       institution: Amazon - UCLA, Los Angeles, California
-      year: June 2023 - Present
+      year: June 2023 - Aug 2023
       description:
         - Advisor. <a href="http://www.seas.ucla.edu/spapl/">Prof. Abeer Alwan</a>
-        - Researching accent and dialect bias with Automatic Speech Recognition (ASR) systems, specifically on OpenAI Whisper and African American language (AAL). Focusing on question-answering (QA) extraction using Hugging Face DeBERTa & Meta LLaMA-2 while fine-tuning Whisper with CORAAL.
+        - Researched accent and dialect bias using NumPy, PyTorch, and HuggingFace with Automatic Speech Recognition (ASR) systems, specifically on OpenAI Whisper and African American Vernacular English (AAVE). Primarily performed question-answering (QA) extraction using Hugging Face DeBERTa & Meta LLaMA-2 while fine-tuning Whisper with the Corpus of Regional African American Language (CORAAL) interview dataset. Improved QA performance by integrating LLaMA-2 compared to conventional QA models and saw 4% improvement with fine-tuning in word error rates (WER) and greater F1 score on AAVE.
     - title: Undergraduate Software Engineering Researcher
       institution: Carnegie Mellon University, Pittsburgh, Pennsylvania 
       year: May 2022 - Aug 2022
       description:
         - Advisors. <a href="http://www.cs.cmu.edu/~ckaestne/">Prof. Christian Kästner</a> and <a href="https://bvasiles.github.io/">Prof. Bogdan Vasilescu</a>
         - Developed Python NumPy/Pandas data-mining scripts to determine maintainers of the top 30,000 most popular GHTorrent GitHub repositories. Deduplicated ~5.6 million rows of contributor commit data by merging commit author aliases together and aggregated maintainers based on the definition of contributors responsible for top 80% of total project commits in a year. Identified ~584,000 distinct contributors, and ~110,000 maintainers to be interviewed to understand the motivations behind open-source software maintainers.
-    - title: Undergraduate Robotics Researcher
+    - title: Undergraduate Robotics Development Researcher
       institution: University of California, Berkeley, California 
       year: June 2021 - Aug 2021
       description:
         - Advisor. <a href="https://hybrid-robotics.berkeley.edu/koushil/">Prof. Koushil Sreenath</a>
-        - Independently developed a speech interface for a robotic guide dog to facilitate direct, vocal human-robot interaction utilizing Python with AWS Amazon Polly and Google Cloud Speech-to-Text APIs. Allowed for understanding vocal commands and a customizable wake word to activate the guide dog. Navigated based on user’s request by publishing predetermined coordinates to guide dog’s navigation target node. Allowed for independence of guide dog by eliminating the need for a computer to manually send commands to the guide dog by integrating a speech interface into the existing infrastructure utilizing C++ and ROS.
+        - Independently developed a speech interface for a robotic guide dog to facilitate direct, vocal human-robot interaction utilizing Python with AWS Amazon Polly and Google Cloud Speech-to-Text APIs. Allowed for understanding vocal commands and a customizable wake word to activate the guide dog. Collaborated with the navigation team to ensure the interface could set navigation goals. Guide dog navigated based on the user's request by publishing predetermined coordinates to the guide dog's navigation target node. Allowed for the independence of guide dog by eliminating the need for a computer to manually send commands to the guide dog by integrating a speech interface into the existing infrastructure utilizing C++ and ROS. Presented research at multiple symposiums to a total of 300+ attendees and wrote a student paper that was cited by Google Research/DeepMind.
+
 
 - title: Honors and Awards
   type: time_table
@@ -123,8 +133,8 @@
   contents:
     - title: Hobbies.
       items: 
-        - Avid skier.
-        - devoted film & digital photographer.
-        - soccer.
+        - Avid skier
+        - Devoted film & digital photographer
+        - Doccer
         - 3D printing
-        - automation tinkering (microcontrollers, open-source software, IoT)
+        - Automation tinkering (microcontrollers, open-source software, IoT)
