@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <strong>EECS</strong> @ UC Berkeley • <strong>Previously:<strong> <a href='https://www.amazon.science/sure' target="_blank">Amazon-UCLA</a> / </strong> <a href='https://www.cmu.edu/scs/s3d/reuse/' target="_blank">CMU</a> / <a href='https://e3s-center.berkeley.edu/education-diversity/education/undergraduate/tte-transfer-excellence-summer-research-program/tte-program-archive-b/2021-2/' target="_blank">Berkeley Engineering</a>
+subtitle:  <strong>EECS</strong> @ UC Berkeley • <strong>Previously:<strong> <a href='https://www.amazon.science/sure' target="_blank">Amazon-UCLA</a> / </strong> <a href='/projects/cmu-reuse/' target="_blank">CMU</a> / <a href='/projects/berkeley-tte-reu/' target="_blank">Berkeley Engineering</a>
 
 profile:
   align: right
