@@ -78,7 +78,7 @@
       institution: Amazon - UCLA, Los Angeles, California
       year: June 2023 - Aug 2023
       description:
-        - Advisor. <a href="http://www.seas.ucla.edu/spapl/">Prof. Abeer Alwan</a>
+        - Advisor. <a href="https://www.ee.ucla.edu/abeer-alwan/">Prof. Abeer Alwan</a>
         - Researched accent and dialect bias using NumPy, PyTorch, and HuggingFace with Automatic Speech Recognition (ASR) systems, specifically on OpenAI Whisper and African American Vernacular English (AAVE). Primarily performed question-answering (QA) extraction using Hugging Face DeBERTa & Meta LLaMA-2 while fine-tuning Whisper with the Corpus of Regional African American Language (CORAAL) interview dataset. Improved QA performance by integrating LLaMA-2 compared to conventional QA models and saw 4% improvement with fine-tuning in word error rates (WER) and greater F1 score on AAVE.
     - title: Undergraduate Software Engineering Researcher
       institution: Carnegie Mellon University, Pittsburgh, Pennsylvania 
