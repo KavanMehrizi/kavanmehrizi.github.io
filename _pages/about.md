@@ -8,6 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>kavanmehrizi @ [berkeley, ucla].edu</p>
+    <p>kavan @ [ieee, computer].org</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
