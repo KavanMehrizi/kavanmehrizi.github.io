@@ -27,20 +27,20 @@
             - Member of ISCO 
         - title: Relevant Coursework.
           contents:
-            - Structure and Interpretation of Computer Programs
-            - Designing Information Devices and Systems I
-            - Designing Information Devices and Systems II
-            - Foundations of Data Science
-            - Data Structures
-            - Ethics, Engineering, and Society
-            - Introduction to Technology Entrepreneurship & Innovation
-            - Discrete Mathematics and Probability Theory*
-            - Principles and Techniques of Data Science*
-            - Introduction to Artificial Intelligence*
-            - Introduction to Computer Graphics*
-            - Introduction to Database Systems*
-            - User Interface Design and Development*
-            - Software Engineering*
+            - CS 61A - Structure and Interpretation of Computer Programs
+            - CS 61B - Data Structures
+            - EECS 16A - Designing Information Devices and Systems I
+            - EECS 16B - Designing Information Devices and Systems II
+            - DATA 8 - Foundations of Data Science
+            - ENGIN 125 - Ethics, Engineering, and Society
+            - ENGIN 183A - Introduction to Technology Entrepreneurship & Innovation
+            - CS 70 - Discrete Mathematics and Probability Theory*
+            - DATA 100 - Principles and Techniques of Data Science*
+            - CS 188 - Introduction to Artificial Intelligence*
+            - CS 184 - Introduction to Computer Graphics*
+            - CS 186 - Introduction to Database Systems*
+            - CS 160 - User Interface Design and Development*
+            - CS 169 - Software Engineering*
 
             - (Course Name)* = In Progress/Planned
     - title: Computer Science A.S., Mathematics A.S.T., Physics A.S.T.
