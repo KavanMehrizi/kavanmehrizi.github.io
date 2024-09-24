@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Farsi, Spanish
     - name: Programming/Scripting Languages
-      value: Python, Java, C++, SQL, HTML/CSS, C, R
+      value: Python, Java, C++, SQL, HTML/CSS, Excel, C, R
     - name: Frameworks and Libraries
       value: NumPy, Pandas, Matplotlib, PyTorch, Git, MySQL, Arduino, ROS
 
@@ -29,18 +29,19 @@
           contents:
             - CS 61A - Structure and Interpretation of Computer Programs
             - CS 61B - Data Structures
+            - CS 160 - User Interface Design and Development
+            - CS 186 - Introduction to Database Systems
             - EECS 16A - Designing Information Devices and Systems I
             - EECS 16B - Designing Information Devices and Systems II
             - DATA 8 - Foundations of Data Science
+            - DATA 100 - Principles and Techniques of Data Science
             - ENGIN 125 - Ethics, Engineering, and Society
             - ENGIN 183A - Introduction to Technology Entrepreneurship & Innovation
             - CS 70 - Discrete Mathematics and Probability Theory*
-            - DATA 100 - Principles and Techniques of Data Science*
-            - CS 188 - Introduction to Artificial Intelligence*
-            - CS 184 - Introduction to Computer Graphics*
-            - CS 186 - Introduction to Database Systems*
-            - CS 160 - User Interface Design and Development*
-            - CS 169 - Software Engineering*
+            - CS 161 - Computer Security*
+            - CS 168 - Introduction to Internet Architecture and Protocols*
+            - CS 194-177 - Decentralized Finance and Blockchain Technologies*
+            - CS 194-196 - Large Language Model Agents*
 
             - (Course Name)* = In Progress/Planned
     - title: Computer Science A.S., Mathematics A.S.T., Physics A.S.T.
@@ -74,6 +75,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Strategy and Analytics Intern
+      institution: American Express Company, Phoenix, Arizona
+      year: June 2024 - Aug 2024
+      description:
+        - Credit Fraud & Risk (CFR) Business Unit
     - title: SURE AI/ML Researcher
       institution: Amazon - UCLA, Los Angeles, California
       year: June 2023 - Aug 2023
@@ -99,7 +105,7 @@
   contents:
     - year: 2022
       items: 
-        - Graduated with Honors 
+        - Graduated with Highest Honors 
         - Milagros Ojermark Academic Transfer Scholarship
         - Academic Honors
     - year: 2021
