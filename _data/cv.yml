@@ -15,7 +15,7 @@
   contents:
     - title: Electrical Engineering and Computer Sciences B.S.
       institution: University of California, Berkeley, California
-      year: Aug 2022 - Present
+      year: Aug 2022 - December 2024
       description:
         - title: Activities and Societies.
           contents:
@@ -37,13 +37,11 @@
             - DATA 100 - Principles and Techniques of Data Science
             - ENGIN 125 - Ethics, Engineering, and Society
             - ENGIN 183A - Introduction to Technology Entrepreneurship & Innovation
-            - CS 70 - Discrete Mathematics and Probability Theory*
-            - CS 161 - Computer Security*
-            - CS 168 - Introduction to Internet Architecture and Protocols*
-            - CS 194-177 - Decentralized Finance and Blockchain Technologies*
-            - CS 194-196 - Large Language Model Agents*
+            - CS 70 - Discrete Mathematics and Probability Theory
+            - CS 161 - Computer Security
+            - CS 194-177 - Decentralized Finance and Blockchain Technologies
+            - CS 194-196 - Large Language Model Agents
 
-            - (Course Name)* = In Progress/Planned
     - title: Computer Science A.S., Mathematics A.S.T., Physics A.S.T.
       institution: Diablo Valley College, Pleasant Hill, California
       year: Jan 2020 - May 2022
@@ -75,11 +73,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Analyst - Risk Management
+      institution: American Express Company, Phoenix, Arizona
+      year: March 2025 - Present
+      description:
+        - Analyze bureau-reporting policies and processes, identifying opportunities to enhance efficiency and accuracy of reporting procedures.
+        - Collaborate with cross-functional teams to implement data-driven solutions, optimizing risk management strategies and ensuring compliance with regulatory requirements.
     - title: Data Strategy and Analytics Intern
       institution: American Express Company, Phoenix, Arizona
       year: June 2024 - Aug 2024
       description:
-        - Credit Fraud & Risk (CFR) Business Unit
+        - Evaluated and improved the effectiveness of a risk-based limit strategy for business customers exiting the Financial Relief Program, resulting in a 35% increase in spend enablement while maintaining a low delinquency rate.
     - title: SURE AI/ML Researcher
       institution: Amazon - UCLA, Los Angeles, California
       year: June 2023 - Aug 2023
